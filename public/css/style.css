@@ -86,6 +86,10 @@ color: #ffffff;
 	font-size: 18px;
 }
 
+.header h3 a {
+  font-weight: 500;
+}
+
 .information p{
 font-size: 16px;
 color: #ffffff;
